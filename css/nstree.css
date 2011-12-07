@@ -1,0 +1,28 @@
+/*
+* Global fonts
+*/
+
+body,
+td {
+	font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size:0.9em;
+}
+
+/*
+* Tree
+*/
+
+table.tree {
+	border-collapse:collapse;
+}
+table.tree td,
+table.tree th {
+	border:1px solid #777;
+	padding:0.5em;
+}
+table.tree th {
+	background-color:#eee;
+	text-align:left;
+}
+
+
